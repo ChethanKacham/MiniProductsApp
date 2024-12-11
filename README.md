@@ -33,9 +33,9 @@
    cd src
    npm json-server --watch products.json --port 5000
 
-4. **Start the React Application**: Launch the development server:
+4. **Start the React Application**: Launch the development server(Open the new terminal):
    ```bash
-   cd ..
+   cd MiniProductsApp
    npm start
 
 5. **View the app**: Open your browser and navigate to http://localhost:3000.
